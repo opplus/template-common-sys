@@ -1,0 +1,23 @@
+
+template-common-sys/target/**
+
+template-common-sys/.idea/**
+
+template-common-sys/logs/**
+
+template-common-sys/target/
+
+template-common-sys/!.mvn/
+wrapper/maven-wrapper.jar
+
+
+### IntelliJ IDEA ###
+
+template-common-sys/.idea
+*.iws
+*.iml
+*.ipr
+
+template-common-sys/src/main/java/META-INF/
+
+
